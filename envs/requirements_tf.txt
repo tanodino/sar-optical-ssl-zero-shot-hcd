@@ -1,0 +1,10 @@
+# Separate environment (Python 3.10) for CAA, SCCN and cGAN (code of github.com/llu025/Heterogeneous_CD at commit ef0784f)
+tensorflow[and-cuda]==2.14.1
+tensorflow-addons==0.22.0
+numpy==1.23.5
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.10.9
+tqdm==4.70.1
+Cython==3.3.1
+pydensecrf @ git+https://github.com/lucasb-eyer/pydensecrf.git@2723c7fa4f2ead16ae1ce3d8afe977724bb8f87f
