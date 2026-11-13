@@ -98,6 +98,9 @@ Two short functions follow the algorithms of MAE (He et al., CVPR 2022): `sslcd/
 `sslcd/methods/croma.py::get_2d_sincos_pos_embed` (independent implementations). The methods follow their papers and official
 code: DeCUR (Wang et al., ECCV 2024), CROMA (Fuller et al., NeurIPS 2023), CroCoMAE (Recchia et al., arXiv:2611.14124).
 
+## Pretrained Cross-Modal SSL backbone
+https://huggingface.co/tanodino/sar-optical-ssl-zero-shot-cd
+
 ## How to cite
 
 TODO: paper reference.
